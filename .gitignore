@@ -33,4 +33,5 @@ build/
 .vscode/
 
 # Ignore service account key file
+
 serviceAccountKey.json
